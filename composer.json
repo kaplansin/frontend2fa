@@ -1,5 +1,5 @@
 {
-    "name": "elgentos/frontend2fa",
+    "name": "kaplansin/frontend2fa",
     "description": "Magento 2 Frontend 2FA implementation",
     "require": {
         "kaplansin/authenticator": "0.0.2",
